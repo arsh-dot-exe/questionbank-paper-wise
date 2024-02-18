@@ -1,0 +1,137 @@
+/* Start news related */
+.wwPDBnews {
+    color: #0B810B;
+}
+
+.pdb101news {
+    color: #5a5a5a;
+}
+/* End news related */
+
+.publications ul {
+    list-style-type: none;
+}
+
+.publications ul li {
+    margin-bottom:16px;
+    border-left:3px #5e94c3 solid;
+    padding-left:4px;
+}
+
+#annualreportcovers li img {
+    width: 170px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.JournalCovers {
+    margin-bottom: 20px;
+}
+
+.JournalCovers a:hover {
+    color: #FFFFFF;
+}
+
+.JournalCovers img {
+    max-height: 130px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #C3C3C3
+}
+
+.JournalCovers50 {
+    margin-bottom: 20px;
+}
+
+.JournalCovers50 a:hover {
+    color: #FFFFFF;
+}
+
+
+.JournalCovers50 img {
+    max-height: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #C3C3C3
+}
+
+#newfeatures_whatsnewpage2015 img {
+    width: 140px;
+}
+
+/* Do not change the color of links on hover - also overwrite what 3rd party CSS does to our links on hover */
+a:hover {
+    color: #336699;
+}
+
+.label-external {
+    background-color: #DB9128;
+    font-weight: normal;
+}
+
+.label-external a {
+    color: #ffffff;
+}
+
+.less-visible {
+    opacity: .3;
+}
+
+#news_content > img {
+    max-width: 100%;
+}
+
+.label-rcsb {
+    border: 1px solid #337ab7;
+    background-color: white;
+    color: #337ab7;
+}
+
+.label-rcsb-active {
+    border: 1px solid #337ab7;
+    background-color: #337ab7;
+    color: white;
+}
+
+.label-rcsb-read {
+    border: 1px solid #337ab7;
+    background-color: rgba(119,119,119,.3);
+    color: #337ab7;
+}
+
+.news-indent {
+    padding-left: 3.2em;
+    text-indent:-3.2em;
+}
+
+a.news_link {
+    text-decoration: none !important;
+}
+
+/* MyPDB Login */
+#userForm .tdLabel,
+#chgPassForm .tdLabel,
+#Logon .tdLabel {
+    text-align: right;
+}
+
+#userForm label,
+#chgPassForm label,
+#Logon label {
+    color: black;
+    font-size: 13px;
+}
+
+#userForm label span,
+#chgPassForm label span,
+#Logon label span {
+    margin-left: 3px;
+}
+
+#userForm td,
+#chgPassForm td,
+#Logon td{
+    padding-bottom: 3px;
+}
+No newline at end of file

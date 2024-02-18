@@ -1,0 +1,511 @@
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: #ddd;
+}
+
+.notDone {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+/* PFV Related */
+.hasSVG svg g text {
+    font-family: 'Roboto', sans-serif;
+}
+
+#ProductPrimaryActions .btn-info {
+    background-color: #337ab7;
+}
+
+.StructureTitle {
+    text-transform: uppercase;
+}
+
+.alert-externalannotation {
+    background-color: #FFF2D8;
+    border-color: #f0ad4e;
+    border-width: 2px;
+}
+
+/* Added by Cole - spacing adjustments to prevent layout clashing on various devices or in print */
+.col-as-row {
+    margin-top: 4px;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+.col-as-row .col-md-5 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.well-nomar {
+    margin-bottom: 0px;
+}
+
+@media print {
+    .pad-by-five {
+        padding: 5px !important;
+    }
+}
+
+/* Added by Cole - handles the long LONG text on ligand summary tables */
+.table-ligandsummary {
+    width: 100%;
+}
+
+.table-ligandsummary th {
+    width: 150px;
+    max-width: 150px;
+}
+
+.table-ligandsummary td {
+    width: 500px;
+    max-width: 500px;
+    word-wrap: break-word;
+}
+
+/* Product Primary Actions
+-------------------------------------------------- */
+#DownloadFilesButton .dropdown-menu {
+    left: -140px;
+}
+
+/* Carousel Structure Gallery
+-------------------------------------------------- */
+#structureimagesection {
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+#carousel-structuregallery .carousel-control {
+    background-image: none;
+    bottom: auto;
+    top: 23px;
+    z-index: 10;
+}
+
+#carousel-structuregallery .carousel-control .glyphicon {
+    color: #666;
+    text-shadow: none;
+}
+
+#carousel-structuregallery .carousel-control .glyphicon-chevron-right {
+    font-size: 30px;
+    margin-right: -25px;
+    color: white;
+}
+
+#carousel-structuregallery .carousel-control .glyphicon-chevron-left {
+    font-size: 30px;
+    color: white;
+    margin-left: -25px;
+}
+
+
+#carousel-structuregallery .carousel-indicators {
+    top: 50px;
+    bottom: initial;
+}
+
+#carousel-structuregallery .carousel-indicators li {
+    background-color: #666;
+}
+
+
+.panel-body #carousel-structuregallery .carousel-header,
+.panel-body .structuredata-header {
+    background-color: #5E6973;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 8px 0;
+}
+
+.panel-body #carousel-structuregallery .carousel-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 14px 0;
+    font-size: 15px;
+}
+
+.panel-body #carousel-structuregallery .carousel-footer,
+.panel-body .structuredata-footer {
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    right: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    padding: 10px 15px;
+}
+
+.panel-body #carousel-structuregallery .item {
+    /*padding: 15px 15px;*/
+    background-color: white;
+}
+
+.panel-body #carousel-structuregallery .item .carousel-image {
+
+}
+
+.panel-body #carousel-structuregallery .item img {
+    padding: 55px 20px 0 20px;
+}
+
+.imageCarouselItem .btn-enlargeImage {
+    display: block;
+    position: absolute;
+    right: 3px;
+    top: 53px;
+}
+
+/* Legend */
+.legendTitleContainer {
+    padding: 3px 6px;
+    position: absolute;
+    top: 51px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    background: rgba(204, 204, 204, 0.85);
+}
+
+#macromoleculespanel .tab-content {
+    border: 1px solid #ddd;
+    border-top: none;
+    padding: 5px 10px;
+}
+
+#MacromoleculeTable table hr {
+    border-color: #ddd;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#MacromoleculeTable .macromoleculeRow td {
+    /*border: 0 solid #ddd;*/
+    /*border-right: 1px solid #ddd;*/
+}
+
+#MacromoleculeTable .mainEntityData {
+    border-top: 5px solid #d8d8d8;
+}
+
+.scrollBar-PFV {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.scrollBar-PFV button {
+    height: 34px;
+}
+
+.scrollBar-PFV span {
+    height: 35px;
+    padding: 5px 20px;
+}
+
+#MacromoleculeTable .externalannotation {
+    background-color: #DB9128;
+    color: #fff;
+    border-bottom-width: 1px;
+    font-weight: normal;
+}
+
+#MacromoleculeTable .externalannotation a {
+    color: #23669e;
+}
+
+
+
+/* Structure Tabs
+-------------------------------------------------- */
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: #fff;
+    cursor: default;
+    background-color: #5E6973;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+#structuretabs > li.active > a,
+#structuretabs > li.active > a:hover,
+#structuretabs > li.active > a:focus {
+    background-color: #325880;
+    border: 1px solid transparent;
+    border-bottom: none;
+}
+
+#structuretabs {
+    border-bottom: 5px solid #325880;
+}
+
+#structuretabs > li {
+    margin-bottom: 0;
+}
+
+#structuretabs > li > a {
+    background-color: #EFEDED;
+    border-bottom: none;
+}
+
+#structuretabs .open a,
+#structuretabs .open a:hover {
+    border-color: transparent;
+}
+
+#navbar-collapse-SSP {
+    padding: 0;
+}
+
+.secondaryheader h1 {
+    float: left;
+    margin-right: 10px;
+
+}
+
+.secondaryheader h4 {
+    margin-top: 30px;
+}
+
+#entitynext {
+    margin-top: 10px;
+    background-color: #416D93;
+}
+
+#alternative2 .nav-tabs > li.active > a,
+#alternative2 .nav-tabs > li.active > a:hover,
+#alternative2 .nav-tabs > li.active > a:focus {
+    color: #333;
+    background-color: #E4E4E4;
+    border-bottom-color: #ddd;;
+}
+
+#alternative2 #structuretabs > li.active > a,
+#alternative2 #structuretabs > li.active > a:hover,
+#alternative2 #structuretabs > li.active > a:focus {
+    background-color: #325880;
+    color: #fff;
+}
+
+#alternative2 .panel-default > .panel-heading {
+    color: #fff;
+    background-color: #5E6973;
+    border-color: #ddd;
+}
+
+.group-membership span.label-rcsb:not(:first-child) {
+    margin-left: 0.5em;
+}
+
+.group-membership span.label-rcsb span.fa {
+    transform: rotate(90deg);
+    margin-left: 0.5em;
+    font-weight: 900;
+}
+
+/* Protein Feature Views */
+
+.entityteaserpanel {
+    margin-bottom: 15px;
+}
+
+#literaturepanel .nav-tabs > li,
+#macromoleculespanel .nav-tabs > li {
+    margin-bottom: 0;
+}
+
+#literaturepanel .nav-tabs,
+#macromoleculespanel .nav-tabs {
+    border-bottom: 5px solid #817F7F;
+}
+
+#literaturepanel .nav-tabs > li.active > a,
+#literaturepanel .nav-tabs > li.active > a:hover,
+#literaturepanel .nav-tabs > li.active > a:focus,
+#macromoleculespanel .nav-tabs > li.active > a,
+#macromoleculespanel .nav-tabs > li.active > a:hover,
+#macromoleculespanel .nav-tabs > li.active > a:focus {
+    color: #fff;
+    background-color: #817F7F;
+    /*	text-shadow: 0 1px 2px rgba(0,0,0,.6);*/
+    border: 1px solid transparent;
+    border-bottom: none;
+}
+
+.ellipsisToolTip {
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 110px;
+}
+
+#literaturepanel .nav-tabs > li > a,
+#macromoleculespanel .nav-tabs > li > a {
+    background-color: #EFEDED;
+    border-bottom: none;
+}
+
+.entitytitle {
+    padding: 0 10px;
+}
+
+table tr td button {
+    margin: 4px 1px;
+}
+
+table thead .externalannotation > th,
+table .externalannotation tr th {
+    background-color: #f0ad4e;
+    color: #fff;
+    border-bottom-width: 1px;
+    font-weight: normal;
+}
+
+#entity h3 {
+    font-size: 16px;
+    background-color: #5E6973;
+    color: #fff;
+    border-color: #ddd;
+    padding: 10px 15px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    font-weight: normal;
+}
+
+#structure h4 {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+#structure .secondaryheader h4 {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+#validationslider {
+    /*	width: 360px;*/
+    margin-bottom: 20px;
+}
+
+#changeorientation .pagination {
+    margin: 5px 0 0 45px;
+}
+
+/* EXTRA */
+
+.panel-default > .panel-heading {
+    color: #fff;
+    background-color: #5E6973;
+    border-color: #ddd;
+}
+
+#experimentaldata-validation .experimentaldata {
+    padding-left: 0;
+}
+
+/* MACROMOLECULE HIGHLIGHTS */
+table .highlight td {
+    background-color: #FFF2E0;
+}
+
+/* MACROMOLECULE HIGHLIGHTS */
+table td ul {
+    -webkit-padding-start: 15px;
+}
+
+.noteSearchQuery {
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+.querySearchLink {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#ligJSmol {
+    height: 270px;
+}
+
+/* --------- DESKTOP AND ABOVE --------- */
+@media print, screen and (min-width: 992px) and (max-width: 1200px) {
+
+    .scrollBar-PFV, .fullButton-PFV {
+        margin-top: 10px;
+        text-align: left;
+    }
+
+}
+
+/* --------- TABLET FORM FACTOR --------- */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    #ProductPrimaryActions {
+        margin-top: 20px;
+    }
+
+    .scrollBar-PFV, .fullButton-PFV {
+        margin-top: 10px;
+        text-align: left;
+    }
+
+}
+
+/* --------- MOBILE PHONE FORM FACTOR --------- */
+@media screen and (max-width: 767px) {
+
+    #SSP-collapsed-tabs {
+        background-color: #EFEDED;
+        margin-top: 0;
+        border: 1px solid #ccc;
+    }
+
+    #navbar-collapse-SSP {
+        width: 100%;
+    }
+
+    #structuretabs {
+        border: 0;
+    }
+
+    #structuretabs li {
+        width: 100%;
+    }
+
+    #carousel-structuregallery .carousel-control .glyphicon-chevron-right {
+        margin-right: -25px;
+    }
+
+    #ProductPrimaryActions {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    #summary .row .col-xs-12 {
+        padding: 0;
+        margin-bottom: 10px;
+    }
+
+    .scrollBar-PFV, .fullButton-PFV {
+        margin-top: 10px;
+        text-align: left;
+    }
+
+}
+
+.hideBadPoseview {
+    border: none;
+}
+
+#binding-affinity-table td {
+    vertical-align: middle;
+}

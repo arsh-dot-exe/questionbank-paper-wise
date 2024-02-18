@@ -1,0 +1,183 @@
+<html>
+<head>
+    <title>Page Not Found</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        
+<link rel="apple-touch-icon" sizes="180x180" href="../images/apple-touch-icon-582ef1d0f5.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32-5d7879efe1.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16-c241ac1a2f.png">
+<link rel="manifest" href="/static/app-/manifest.json">
+<link rel="mask-icon" href="safari-pinned-tab-427338756f.svg" color="#e6e6e6">
+<link rel="shortcut icon" data-test="shortcut-icon" href="../favicon-1886637b78.ico">
+<meta name="msapplication-config" content="/static/app-/browserconfig.xml">
+<meta name="msapplication-TileColor" content="#1b3051">
+<meta name="msapplication-TileImage" content="/static/img/favicons/bmc/app-icon-144x144.png">
+<meta name="theme-color" content="#1b3051">
+
+    
+    <style type="text/css">
+        *,
+        *:before,
+        *:after {
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 62.5%;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            display: table;
+            font-size: 1.7rem;
+            width: 100%;
+            margin: 0;
+            background-color: white;
+            color: #333;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+            font-weight: 400;
+            line-height: 1.57895;
+            position: relative;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        h1 {
+            line-height: 1.57895;
+            color: #111;
+            margin: 0 0 1.875rem;
+            font-size: 4.5rem;
+            padding: 0;
+            font-weight: 400;
+        }
+
+        a {
+            color: #0067c5;
+            text-decoration: none;
+        }
+
+        a:focus, a:active, a:hover {
+            color: #346393;
+            text-decoration: underline;
+        }
+
+        .p-container {
+            margin: auto;
+            padding: 0px 16px;
+            max-width: 1140px;
+        }
+
+        @media (min-width: 43.76em) {
+            .p-container {
+                padding: 0px 24px;
+            }
+        }
+
+        .p-main {
+            margin-bottom: 72px;
+        }
+
+        .p-table-row {
+            display: table-row;
+            height: 1px;
+        }
+
+        .p-table-row--expanded {
+            height: 100%;
+        }
+
+        .c-footer-corporate {
+            background-color: #f2f2f2;
+            border-top: 1px solid #b0a8a3;
+            padding: 24px 0;
+        }
+
+        .c-footer-corporate__legal {
+            font-size: 1.4rem;
+            margin: 6px 0 0 0;
+            line-height: 1.4;
+        }
+
+        .c-footer-corporate__link {
+            text-decoration: underline;
+            color: #000;
+        }
+
+        .c-footer-corporate__link:visited {
+            color: #000;
+        }
+
+        .c-footer-corporate__link:hover {
+            color: #000;
+            text-decoration: none;
+        }
+
+        .c-footer-corporate__link:active {
+            color: #eb2a60;
+            outline: 1px dotted #eb2a60;
+        }
+
+        .c-header {
+            margin-bottom: 122px;
+            background-color: #f2f2f2;
+            padding: 20px 0;
+        }
+
+        .c-header-logo {
+            display: inline-block;
+            vertical-align: middle;
+            padding-right: 20px;
+        }
+
+        .c-header-logo + .c-header-logo {
+            padding-left: 20px;
+            border-left: 1px solid #b0a8a3;
+        }
+    </style>
+</head>
+<body data-origin="app">
+
+    <div class="p-table-row">
+        <header class="c-header">
+            <div class="p-container">
+                <img class="c-header-logo" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjAuNCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHdpZHRoPSI5OC44Njk1cHgiIGhlaWdodD0iMjRweCIgdmlld0JveD0iNTUuOTgzIDEzLjQ4NyAxMzEuODI2IDMyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDU1Ljk4MyAxMy40ODcgMTMxLjgyNiAzMiIKCSB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHRpdGxlPkdyb3VwIDI8L3RpdGxlPgo8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KPGcgaWQ9IlBhZ2UtMSI+Cgk8ZyBpZD0iQXJ0Ym9hcmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNTc5LjAwMDAwMCwgLTE2Ni4wMDAwMDApIj4KCQk8ZyBpZD0iR3JvdXAtMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTU3OS4wMDAwMDAsIDE2Ni4wMDAwMDApIj4KCQkJPGcgaWQ9Ikdyb3VwIj4KCQkJCTxnIGlkPSJCTUNfVHlwZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODAuMDM1OTEyLCAwLjAwMDAwMCkiPgoJCQkJCTxwYXRoIGlkPSJTaGFwZSIgZmlsbD0iIzFCMzA1MSIgZD0iTTM2LjA2MSwyOC43MjdjMi44NTctMS4zMiw0LjUxNC0zLjc2LDQuNTE0LTYuNzE2YzAtMi40MTEtMC45MTUtNC4zNjItMi43MTUtNS43OTcKCQkJCQkJYy0xLjc5OS0xLjQzNS00LjM3MS0yLjE1My03LjY1Ny0yLjE1M2gtMTAuOGMtMC4wMjksMC0wLjA1NywwLjAyOS0wLjA1NywwLjA1OHYzMC43OTRjMCwwLjAyOSwwLjAyOCwwLjA1OCwwLjA1NywwLjA1OGgxMi40MjkKCQkJCQkJYzMuOTQyLDAsNy0xLjM3Nyw4LjgtMy45NmMwLjk0Mi0xLjM0OSwxLjQyOC0yLjk4NSwxLjQyOC00LjgyMmMwLTEuOTIzLTAuNTcxLTMuNTAxLTEuNzE0LTQuODIxCgkJCQkJCUMzOS4yMDQsMzAuMTA0LDM3LjgwNCwyOS4yNDQsMzYuMDYxLDI4LjcyN3ogTTI1LjYzMywzMS44ODRoNS41NzFjMywwLDQuNDI5LDEuMjMzLDQuNDI5LDMuNzg4cy0xLjQ1OCwzLjc4OC00LjQyOSwzLjc4OAoJCQkJCQloLTUuNTcxVjMxLjg4NHogTTMzLjU3NSwyNS40ODRjLTAuNiwwLjYwMy0xLjcxNCwwLjg5LTMuNDI5LDAuODloLTQuNTE0di02LjgwMmg0LjUxNGMxLjY4NiwwLDIuOCwwLjI4OCwzLjQyOSwwLjg5CgkJCQkJCWMwLjYsMC42MDMsMC44ODYsMS40MzYsMC44ODYsMi40OThDMzQuNDksMjQuMDQ5LDM0LjE3NSwyNC44ODEsMzMuNTc1LDI1LjQ4NHoiLz4KCQkJCQk8cGF0aCBpZD0iU2hhcGVfMV8iIGZpbGw9IiMxQjMwNTEiIGQ9Ik03Mi41NzQsMTQuMTE5YzAtMC4wMjktMC4wMjgtMC4wNTgtMC4wNTctMC4wNThoLTJjLTAuMDI4LDAtMC4wNTgsMC4wMjktMC4wNTgsMC4wMjkKCQkJCQkJbC03LjgyOCwxOC4xNjdMNTQuNzc2LDE0LjA5YzAtMC4wMjktMC4wMjktMC4wMjktMC4wNTgtMC4wMjloLTJjLTAuMDI4LDAtMC4wNTcsMC4wMjktMC4wNTcsMC4wNThsLTguMTQ0LDMwLjc5NHYwLjA1OAoJCQkJCQlDNDQuNTE4LDQ1LDQ0LjU0Niw0NSw0NC41NzQsNDVoNi4wODdjMC4wMjcsMCwwLjA1Ny0wLjAyOSwwLjA1Ny0wLjA1OGw0LjM3MS0xNi4xMjlsNi43NzEsMTQuODY3CgkJCQkJCWMwLDAuMDI4LDAuMDI5LDAuMDI4LDAuMDU4LDAuMDI4aDEuMzk5YzAuMDI5LDAsMC4wNTctMC4wMjgsMC4wNTctMC4wMjhsNi44MDEtMTQuODY3bDQuMzQzLDE2LjEyOQoJCQkJCQljMCwwLjAyOCwwLjAyOCwwLjA1OCwwLjA1OCwwLjA1OGg2LjA4NWMwLjAyOCwwLDAuMDI4LDAsMC4wNTctMC4wMjljMC0wLjAyOCwwLjAyOS0wLjAyOCwwLTAuMDU4TDcyLjU3NCwxNC4xMTl6Ii8+CgkJCQkJPHBhdGggaWQ9IlNoYXBlXzJfIiBmaWxsPSIjMUIzMDUxIiBkPSJNMTA2LjMxOCwzNy41MWgtMC4wNThjLTIuMjg2LDEuNTQ5LTQuNzE0LDIuMzIzLTcuMTcxLDIuMzIzCgkJCQkJCWMtMy4xNzIsMC01LjcxNS0wLjk3Ni03LjU0My0yLjg2OWMtMS44MDEtMS45MjMtMi43NDMtNC40Mi0yLjc0My03LjQzNGMwLTMuMDEzLDAuOTE0LTUuNDgxLDIuNzQzLTcuNDA0CgkJCQkJCWMxLjgyOC0xLjg5NCw0LjM3MS0yLjg3LDcuNTQzLTIuODdjMi41NDIsMCw0Ljg4NSwwLjc0Nyw3LjE3MSwyLjI2N2gwLjA1OGMwLjAyOCwwLDAuMDI4LTAuMDI4LDAuMDI4LTAuMDU3bDEuNDI4LTUuNTY4CgkJCQkJCWMwLTAuMDI4LDAtMC4wNTgtMC4wMjctMC4wODZjLTEuNTcyLTAuOTQ3LTMuMTQ0LTEuNDkyLTQuMjAxLTEuNzc5Yy0xLjI4NS0wLjM0NS0yLjg4NS0wLjU0NS00Ljc3MS0wLjU0NQoJCQkJCQljLTMuMDI4LDAtNS44MjgsMC42ODktOC4zNDQsMi4wMzhjLTIuNDU2LDEuMzQ5LTQuNDI4LDMuMjcyLTUuODU2LDUuNzExcy0yLjE0Myw1LjE5NC0yLjE0Myw4LjIzNwoJCQkJCQljMCwyLjMyNSwwLjM5OSw0LjQxOSwxLjIyOSw2LjQyOGMwLjgyOSwxLjk4MSwxLjk3MiwzLjY3NCwzLjQyOSw1LjA4YzIuOTcyLDIuODcsNy4yMjksNC41MDYsMTEuNjg2LDQuNTA2CgkJCQkJCWMxLjgyOCwwLDMuNDI4LTAuMjAxLDQuNzQzLTAuNTQ1YzEuMDU3LTAuMjg3LDIuNjU2LTAuODYxLDQuMTk5LTEuNzc5YzAuMDI5LTAuMDI5LDAuMDI5LTAuMDU4LDAuMDI5LTAuMDg2bC0xLjQyOS01LjU5NwoJCQkJCQlDMTA2LjM0NiwzNy41MzgsMTA2LjM0NiwzNy41MSwxMDYuMzE4LDM3LjUxeiIvPgoJCQkJPC9nPgoJCQkJPGcgaWQ9IkJNQ19Mb2dvX1R1cnEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLCAxLjA1Nzg0NikiPgoJCQkJCTxwb2x5Z29uIGlkPSJTaGFwZV8zXyIgZmlsbD0iIzI3REZFOSIgcG9pbnRzPSI4Ni43ODMsNDMuOTQyIDU1Ljk4MywxMy4wMDMgODYuNzgzLDEzLjAwMyAJCQkJCSIvPgoJCQkJCTxwb2x5Z29uIGlkPSJTaGFwZV80XyIgZmlsbD0iIzFCMzA1MSIgcG9pbnRzPSI4Ni43ODMsNDMuOTQyIDU1Ljk4Myw0My45NDIgNTUuOTgzLDEzLjAwMyAJCQkJCSIvPgoJCQkJPC9nPgoJCQk8L2c+CgkJPC9nPgoJPC9nPgo8L2c+Cjwvc3ZnPgo=" alt>
+            </div>
+        </header>
+    </div>
+    <div class="p-table-row--expanded">
+        <div class="p-main p-container">
+            <h1>Page not found</h1>
+            <p>The information you’re looking for cannot be found, it may be temporarily unavailable or permanently
+                removed.</p>
+            <p>Try refreshing the page, or returning to the <a href="https://www.biomedcentral.com">homepage</a>. If the
+                problem continues, please visit our <a href="https://support.biomedcentral.com/support/home">support
+                    portal</a>.</p>
+        </div>
+    </div>
+    <div class="p-table-row">
+        <footer>
+            <div class="c-footer-corporate">
+                <div class="p-container">
+                    <div class="c-footer-corporate-logo">
+                        <svg focusable="false" xmlns="http://www.w3.org/2000/svg" width="124" height="11.985" viewBox="-9.324 -0.506 124 11.985" role="img" aria-labelledby="sn-logo">
+                            <path fill="#666" d="M57.503 4.188c0-2.477-2.122-3.358-4.104-3.358-1.013 0-2.537 0-3.414.03v10.3h2.569V8.015h.781l.439-.014.021-.003.016.017c.425.68.968 1.777 1.142 3.146l1.37.001h.729l.711-.001c-.239-1.576-1.099-3.156-1.593-3.959l-.017-.028.024-.018c.853-.682 1.326-1.734 1.326-2.968zm-2.726.36c0 1.063-.45 1.538-1.458 1.538-.324 0-.536 0-.732-.017l-.033-.002V2.783l.035-.002c.227-.016.523-.016.762-.016 1.189-.001 1.426.683 1.426 1.783zm-6.683 6.612V9.144h-3.688V6.88h3.33V4.888h-3.33V2.855h3.638V.845h-6.097v8.487c0 .011-.015.814.521 1.368.334.348.811.523 1.418.525 1.871.013 3.918-.054 4.208-.065zm-11.517.319c.999 0 2.5-.256 3.619-.832V5.518h-3.389v1.76h1.07v2.104l-.023.01c-.258.093-.874.14-1.131.14-1.357 0-1.886-1.002-1.886-3.567 0-2.255.781-3.351 2.386-3.351.537 0 1.32.239 2.154.657l.695-1.719A6.374 6.374 0 0 0 36.82.618c-1.558 0-2.679.437-3.433 1.333-.747.893-1.108 2.216-1.108 4.045.003 3.996 1.167 5.483 4.298 5.483zm-8.661-.319h2.708V.847H28.35v6.747L25.274.847h-2.81V11.16h2.262V4.653l3.19 6.507zm-10.276 0h2.566V.862H17.64V11.16zm-3.223-3.958l-.017-.029.025-.017c.856-.682 1.329-1.735 1.329-2.967 0-2.477-2.12-3.358-4.105-3.358-1.013 0-2.536 0-3.414.03v10.297h2.569V8.016h.781l.439-.014.02-.001.012.015c.427.681.97 1.776 1.144 3.145l1.37.001h.727l.714-.001c-.238-1.576-1.1-3.155-1.594-3.959zm-1.389-2.654c0 1.063-.451 1.538-1.459 1.538-.322 0-.537 0-.73-.017l-.034-.002V2.783l.034-.002c.227-.016.523-.016.762-.016 1.191-.001 1.427.683 1.427 1.783zm-6.083-.397C6.945 2.009 5.587.83 3.119.83 2.106.83.583.83-.296.86v10.3h2.57V8.015h.78c1.17 0 3.891-.375 3.891-3.864zM4.5 4.548c0 1.063-.451 1.538-1.459 1.538-.323 0-.536 0-.732-.017l-.034-.003V2.783l.034-.002c.228-.016.525-.016.763-.016 1.19-.001 1.428.684 1.428 1.783zM-6.362 2.819c0-.577.374-1.161 1.21-1.161.606 0 1.327.202 2.264.634l.932-1.861C-3.039-.201-4.149-.506-5.35-.506c-2.33 0-3.721 1.25-3.721 3.341s1.626 2.898 2.933 3.547c.948.471 1.766.878 1.766 1.642 0 .661-.59 1.106-1.466 1.106-.703 0-1.561-.26-2.551-.768l-.934 1.993c1.252.71 2.397 1.024 3.703 1.024 2.419 0 3.865-1.341 3.865-3.581 0-2.121-1.626-2.882-2.931-3.493-.899-.419-1.677-.783-1.677-1.488h.001zm117.359 6.325V6.88h3.33V4.888h-3.33V2.855h3.636V.845h-6.096v8.487c0 .011-.017.814.52 1.368.335.348.811.523 1.417.527 1.869.01 3.918-.058 4.202-.068V9.144h-3.685.006zm-5.554-1.945l-.016-.026.024-.02c.856-.679 1.328-1.733 1.328-2.965 0-2.477-2.121-3.358-4.104-3.358-1.014 0-2.537 0-3.416.031v10.297h2.57V8.015h.781l.439-.014.02-.003.013.017c.427.68.972 1.777 1.146 3.146l1.369.001h.724l.716-.001c-.238-1.576-1.1-3.156-1.594-3.959v-.003zm-1.388-2.651c0 1.062-.452 1.537-1.46 1.537-.322 0-.534 0-.73-.016l-.035-.002V2.782l.035-.001c.227-.016.523-.016.763-.016 1.188-.001 1.427.683 1.427 1.783zm-6.694 2.918V.846h-2.66v6.867c0 1.056-.061 1.703-1.244 1.703-1.135 0-1.324-.531-1.324-1.719V.846h-2.661v6.99c0 2.459 1.194 3.555 3.872 3.555 2.74 0 4.017-1.248 4.017-3.926v.001zM85.954 2.949h1.975V.846h-6.966V2.95h2.316v8.211h2.674l.001-8.212zm-7.849 8.211h2.763L78.391.847h-4.006L71.872 11.16h2.622l.368-1.639h2.872l.369 1.639h.002zm-.67-3.587h-2.271l1.07-4.484h.105l.008.027 1.088 4.457zM67.357 11.16h3.036V-.401h-2.47l.103 8.064-3.779-8.064h-2.998V11.16h2.378l-.019-7.98.069.144 3.68 7.836z"/>
+                        </svg>
+                    </div>
+                    <p class="c-footer-corporate__legal">&#169; 2023 BioMed Central Ltd unless otherwise stated. Part of
+                        <a class="c-footer-corporate__link" href="http://www.springernature.com">Springer Nature</a>.
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>
+
